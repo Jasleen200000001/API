@@ -24,5 +24,3 @@ logs
 
 # Environment variables
 .env*
-
-server.js
